@@ -42,5 +42,6 @@ public class Model {
 	}
 	public void exit() {
 		this.checkIn = "no";
+		System.out
 	}
 }
